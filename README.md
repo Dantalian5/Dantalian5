@@ -20,7 +20,17 @@ I am Marcos Valenzuela, an aspiring full stack developer passionate about progra
 [![Static Badge](https://img.shields.io/badge/Frontend_mentor-blue?style=for-the-badge&logo=frontendmentor)
 ](https://www.frontendmentor.io/profile/Dantalian5)
 
+---
 
+### 💻 Languages, Frameworks, Tools
+
+<p float="left">
+<img style="padding:5px;" align="center" alt="Html" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+<img style="padding:5px;" align="center" alt="Css" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+<img style="padding:5px;" align="center" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img style="padding:5px;" align="center" alt="Matlab" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"> 
+<img style="padding:5px;" align="center" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> 
+</p>
 
 
 <!--
