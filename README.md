@@ -1,4 +1,23 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=4000&color=2BF721&repeat=false&width=435&lines=Hi+there!+Welcome+to+my+GitHub.+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+
+I am Marcos Valenzuela, an aspiring full stack developer passionate about programming and technology, a geek in every sense of the word.
+
+---
+
+### ⚡️ A quick introduction
+
+- 🌱 I’m currently learning the base of web development (html, css, js)
+- 👯 I’m looking to collaborate on entry projects (or wherever I can be of assistance.)
+- 💼 I'm open to freelancing projects.
+- 🤟🏻 I love science, especially physics and mathematics. I enjoy music and love spending long hours with my guitar. I'm also fond of video games, particularly retro ones.
+
+---
+
+### 🤝🏻 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-valenzuela-coding)
+
+
 
 <!--
 **Dantalian5/Dantalian5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
