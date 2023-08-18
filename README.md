@@ -15,7 +15,11 @@ I am Marcos Valenzuela, an aspiring full stack developer passionate about progra
 
 ### 🤝🏻 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-valenzuela-coding)
+[![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)
+](https://www.linkedin.com/in/marcos-valenzuela-coding)
+[![Static Badge](https://img.shields.io/badge/Frontend_mentor-blue?style=for-the-badge&logo=frontendmentor)
+](https://www.frontendmentor.io/profile/Dantalian5)
+
 
 
 
