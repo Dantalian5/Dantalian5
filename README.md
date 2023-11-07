@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=4000&color=2BF721&repeat=false&width=435&lines=Hi+there!+Welcome+to+my+GitHub.+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=4000&color=2BF721&repeat=false&width=435&lines=Hello+World!.+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 I am Marcos Valenzuela, an aspiring full stack developer passionate about programming and technology, a geek in every sense of the word.
 
