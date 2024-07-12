@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=10000&color=19F70B&random=false&width=435&lines=%3Ch1%3EHello+World!%3C%2Fh1%3E)](https://git.io/typing-svg)
 
-I am Marcos Valenzuela, an aspiring full stack developer passionate about programming and technology, a geek in every sense of the word.
+I am Marcos Valenzuela, a junior full stack developer passionate about programming and technology, a geek in every sense of the word.
 
 ---
 
@@ -20,17 +20,22 @@ I am Marcos Valenzuela, an aspiring full stack developer passionate about progra
 [![Static Badge](https://img.shields.io/badge/Frontend_mentor-blue?style=for-the-badge&logo=frontendmentor)
 ](https://www.frontendmentor.io/profile/Dantalian5)
 
+Personal Portfolio: valenzuela.dev 
+
 ---
 
 ### 💻 Languages, Frameworks, Tools
 
-<p float="left">
-<img style="padding:5px;" align="center" alt="Html" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img style="padding:5px;" align="center" alt="Css" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img style="padding:5px;" align="center" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img style="padding:5px;" align="center" alt="Matlab" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"> 
-<img style="padding:5px;" align="center" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> 
-</p>
+- HTML
+- CSS/SASS
+- Javascript/Typescript
+- ReactJS
+- Next.js
+- MongoDB
+- PostgreSQL
+- Node.js
+- Express
+- Matlab
 
 
 <!--
