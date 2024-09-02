@@ -6,10 +6,10 @@ I am Marcos Valenzuela, a junior full stack developer passionate about programmi
 
 ### ⚡️ A quick introduction
 
-- 🌱 I’m currently learning: Next.js, Unity testing, Nest.js
-- 👯 I’m looking to collaborate on entry projects (or wherever I can be of assistance.)
-- 💼 I'm open to freelancing projects.
-- 🤟🏻 I love science, especially physics and math. I enjoy music and videogames, particularly retro ones.
+- 🌱 Currently learning: Next.js, Unity testing, Nest.js
+- 👯 Looking to collaborate on entry projects (or wherever I can be of assistance.)
+- 💼 Open to freelancing projects.
+- 🤟🏻 Love science, especially physics and math. I enjoy music and videogames, particularly retro ones.
 
 ---
 
