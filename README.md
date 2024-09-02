@@ -20,7 +20,7 @@ I am Marcos Valenzuela, a junior full stack developer passionate about programmi
 [![Static Badge](https://img.shields.io/badge/Frontend_mentor-blue?style=for-the-badge&logo=frontendmentor)
 ](https://www.frontendmentor.io/profile/Dantalian5)
 
-Personal Portfolio: valenzuela.dev 
+Personal Portfolio: [valenzuela.dev](https://valenzuela.dev) 
 
 ---
 
