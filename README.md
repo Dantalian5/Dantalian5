@@ -29,11 +29,15 @@ Personal Portfolio: [valenzuela.dev](https://valenzuela.dev)
 - HTML
 - CSS/SASS
 - Javascript/Typescript
+- Ruby
 - ReactJS
 - Next.js
+- Vue
+- Nuxt
 - MongoDB
 - PostgreSQL
 - Node.js
+- Rails
 - Express
 - Matlab
 
